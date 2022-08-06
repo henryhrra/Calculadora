@@ -1,0 +1,11 @@
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <!--Establecemos el color de fondo-->
+    <solid
+        android:color="#9c667d" />
+    <!--Establecemos el ancho de la línea y el color de la misma-->
+    <stroke
+        android:width="1sp"
+        android:color="#F4DEB6"/>
+</shape>
